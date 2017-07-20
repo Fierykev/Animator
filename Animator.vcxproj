@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{3E0A2709-7811-469D-B4A9-1EAD7E77A21F}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>14.0.25420.1</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>Debug\</OutDir>
+    <IntDir>Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1\lib;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\lib\Release\Win32;C:\Users\cyber\Documents\C++ Library\freeglut\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\include;C:\Users\cyber\Documents\C++ Library\freeglut\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1\lib;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\lib\Release\Win32;C:\Users\cyber\Documents\C++ Library\freeglut\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\include;C:\Users\cyber\Documents\C++ Library\freeglut\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>Release\</OutDir>
+    <IntDir>Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\include;C:\Users\cyber\Documents\C++ Library\freeglut\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1\lib;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\lib\Release\Win32;C:\Users\cyber\Documents\C++ Library\freeglut\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\include;C:\Users\cyber\Documents\C++ Library\freeglut\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\cyber\Documents\C++ Library\fltk-1.3.4-1\lib;C:\Users\cyber\Documents\C++ Library\glew-1.13.0\lib\Release\Win32;C:\Users\cyber\Documents\C++ Library\freeglut\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>C:\fltk-1.1.10\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalOptions>/VERBOSE %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>fltkd.lib;fltkgld.lib;fltkimagesd.lib;glu32.lib;opengl32.lib;comctl32.lib;wsock32.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)Animator.exe</OutputFile>
+      <AdditionalLibraryDirectories>C:\fltk-1.1.10\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)Animator.pdb</ProgramDatabaseFile>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>C:\fltk-1.1.10\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalOptions>/VERBOSE %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>fltkd.lib;fltkgld.lib;fltkimagesd.lib;glu32.lib;opengl32.lib;comctl32.lib;wsock32.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)Animator.exe</OutputFile>
+      <AdditionalLibraryDirectories>C:\fltk-1.1.10\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)Animator.pdb</ProgramDatabaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OmitFramePointers>true</OmitFramePointers>
+      <AdditionalIncludeDirectories>C:\fltk-1.1.10\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>glew32.lib;fltk.lib;fltkgl.lib;fltkimages.lib;glu32.lib;opengl32.lib;comctl32.lib;wsock32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)Animator.exe</OutputFile>
+      <AdditionalLibraryDirectories>C:\fltk-1.1.10\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+      <LargeAddressAware>true</LargeAddressAware>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OmitFramePointers>true</OmitFramePointers>
+      <AdditionalIncludeDirectories>C:\fltk-1.1.10\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>glew32.lib;fltk.lib;fltkgl.lib;fltkimages.lib;glu32.lib;opengl32.lib;comctl32.lib;wsock32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)Animator.exe</OutputFile>
+      <AdditionalLibraryDirectories>C:\fltk-1.1.10\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="animatoruiwindows.cxx" />
+    <ClCompile Include="batman.cpp" />
+    <ClCompile Include="beziercurveevaluator.cpp" />
+    <ClCompile Include="bitmap.cpp" />
+    <ClCompile Include="bsplinecurveevaluator.cpp" />
+    <ClCompile Include="c1beziercurveevaluator.cpp" />
+    <ClCompile Include="camera.cpp" />
+    <ClCompile Include="catmulromevaluator.cpp" />
+    <ClCompile Include="color.cpp" />
+    <ClCompile Include="curve.cpp" />
+    <ClCompile Include="curveevaluator.cpp" />
+    <ClCompile Include="graphwidget.cpp" />
+    <ClCompile Include="indicatorwindow.cpp" />
+    <ClCompile Include="linearcurveevaluator.cpp" />
+    <ClCompile Include="modelerapp.cpp" />
+    <ClCompile Include="modelerdraw.cpp" />
+    <ClCompile Include="modelerui.cpp" />
+    <ClCompile Include="modelerview.cpp" />
+    <ClCompile Include="ObjectFileLoader.cpp" />
+    <ClCompile Include="Particle.cpp" />
+    <ClCompile Include="particleSystem.cpp" />
+    <ClCompile Include="point.cpp" />
+    <ClCompile Include="rect.cpp" />
+    <ClCompile Include="robotarm.cpp" />
+    <ClCompile Include="rulerwindow.cpp" />
+    <ClCompile Include="c2interpevaluator.cpp" />
+    <ClCompile Include="Scene 1.cpp" />
+    <ClCompile Include="Scene 3.cpp" />
+    <ClCompile Include="Scene 4.cpp" />
+    <ClCompile Include="Scene 5.cpp" />
+    <ClCompile Include="Scene 6.cpp" />
+    <ClCompile Include="Shader_Helper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="animatoruiwindows.h" />
+    <ClInclude Include="batman.h" />
+    <ClInclude Include="beziercurveevaluator.h" />
+    <ClInclude Include="bitmap.h" />
+    <ClInclude Include="bsplinecurveevaluator.h" />
+    <ClInclude Include="c1beziercurveevaluator.h" />
+    <ClInclude Include="c2interpevaluator.h" />
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="catmulromevaluator.h" />
+    <ClInclude Include="color.h" />
+    <ClInclude Include="curve.h" />
+    <ClInclude Include="curveevaluator.h" />
+    <ClInclude Include="Force.h" />
+    <ClInclude Include="graphwidget.h" />
+    <ClInclude Include="Helper.h" />
+    <ClInclude Include="indicatorwindow.h" />
+    <ClInclude Include="linearcurveevaluator.h" />
+    <ClInclude Include="mat.h" />
+    <ClInclude Include="modelerapp.h" />
+    <ClInclude Include="modelerdraw.h" />
+    <ClInclude Include="modelerui.h" />
+    <ClInclude Include="modelerview.h" />
+    <ClInclude Include="ObjectFileLoader.h" />
+    <ClInclude Include="Particle.h" />
+    <ClInclude Include="particleSystem.h" />
+    <ClInclude Include="point.h" />
+    <ClInclude Include="rect.h" />
+    <ClInclude Include="robotarm.h" />
+    <ClInclude Include="rulerwindow.h" />
+    <ClInclude Include="Scene 1.h" />
+    <ClInclude Include="Scene 3.h" />
+    <ClInclude Include="Scene 4.h" />
+    <ClInclude Include="Scene 5.h" />
+    <ClInclude Include="Scene 6.h" />
+    <ClInclude Include="vec.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shadow.fs" />
+    <None Include="Shadow.vs" />
+    <None Include="Smoke.fs" />
+    <None Include="Smoke.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader_Helper.h">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Compute</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Compute</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">4.0</ShaderModel>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">4.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Compute</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Compute</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">4.0</ShaderModel>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">4.0</ShaderModel>
+      <FileType>Document</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

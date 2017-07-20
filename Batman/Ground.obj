@@ -1,0 +1,13 @@
+# Blender v2.78 (sub 0) OBJ File: 'Batman.blend'
+# www.blender.org
+mtllib Ground.mtl
+o Plane.003_Plane
+v -17.921148 -4.688930 17.921148
+v 17.921148 -4.688930 17.921148
+v -17.921148 -4.688930 -17.921148
+v 17.921148 -4.688930 -17.921148
+vn 0.0000 1.0000 0.0000
+usemtl Ground
+s off
+f 2//1 3//1 1//1
+f 2//1 4//1 3//1

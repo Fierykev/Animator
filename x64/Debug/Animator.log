@@ -1,0 +1,291 @@
+﻿  animatoruiwindows.cxx
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\graphwidget.h(108): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  batman.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+batman.cpp(110): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(112): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(120): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(122): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(137): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(139): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(143): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(145): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(154): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(156): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(160): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(162): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(173): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(184): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(186): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+batman.cpp(210): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(211): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(212): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(213): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(214): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(215): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(216): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(217): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(218): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(219): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(220): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(221): warning C4305: 'argument': truncation from 'double' to 'float'
+batman.cpp(222): warning C4305: 'argument': truncation from 'double' to 'float'
+  beziercurveevaluator.cpp
+beziercurveevaluator.cpp(28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  bitmap.cpp
+bitmap.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+bitmap.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+bitmap.cpp(159): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  bsplinecurveevaluator.cpp
+bsplinecurveevaluator.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  bsplinecurveevaluator.cpp(112): note: see reference to function template instantiation 'Mat4<float> operator /<float>(const Mat4<float> &,const double)' being compiled
+  c1beziercurveevaluator.cpp
+c1beziercurveevaluator.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c1beziercurveevaluator.cpp(98): note: see reference to function template instantiation 'Mat4<float> operator /<float>(const Mat4<float> &,const double)' being compiled
+  camera.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\graphwidget.h(108): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(293): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(291): note: while compiling class template member function 'void Vec3<float>::normalize(void)'
+  camera.cpp(81): note: see reference to function template instantiation 'void Vec3<float>::normalize(void)' being compiled
+  c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\camera.h(33): note: see reference to class template instantiation 'Vec3<float>' being compiled
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(293): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(293): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(814): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  camera.cpp(155): note: see reference to function template instantiation 'Vec3<float> operator *<float>(const Vec3<float> &,const double)' being compiled
+  catmulromevaluator.cpp
+catmulromevaluator.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  catmulromevaluator.cpp(97): note: see reference to function template instantiation 'Mat4<float> operator /<float>(const Mat4<float> &,const double)' being compiled
+  color.cpp
+  curve.cpp
+curve.cpp(208): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+curve.cpp(261): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+curve.cpp(268): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+curve.cpp(280): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+curve.cpp(307): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+curve.cpp(396): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+curve.cpp(416): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  curveevaluator.cpp
+  graphwidget.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\graphwidget.h(108): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(153): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(527): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(548): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(610): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(629): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(659): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(660): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(665): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(670): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+graphwidget.cpp(872): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(1037): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(1065): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(1103): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(1124): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+graphwidget.cpp(1155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+graphwidget.cpp(1162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+graphwidget.cpp(1166): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+graphwidget.cpp(1167): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+graphwidget.cpp(1193): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+graphwidget.cpp(1194): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  indicatorwindow.cpp
+  linearcurveevaluator.cpp
+linearcurveevaluator.cpp(9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  modelerapp.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\graphwidget.h(108): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+modelerapp.cpp(41): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+modelerapp.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+modelerapp.cpp(146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  modelerdraw.cpp
+modelerdraw.cpp(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  modelerui.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\graphwidget.h(108): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+modelerui.cpp(57): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+modelerui.cpp(92): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+modelerui.cpp(117): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+modelerui.cpp(255): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+modelerui.cpp(407): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(421): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(444): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(454): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(464): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(555): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(639): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+modelerui.cpp(725): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+modelerui.cpp(754): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+modelerui.cpp(776): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+modelerui.cpp(825): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+  modelerview.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ObjectFileLoader.cpp
+ObjectFileLoader.cpp(103): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+ObjectFileLoader.cpp(109): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(120): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(131): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(142): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(149): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(156): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(163): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(280): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(298): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(316): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(348): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(363): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+ObjectFileLoader.cpp(604): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+ObjectFileLoader.cpp(625): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+ObjectFileLoader.cpp(720): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+ObjectFileLoader.cpp(796): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Particle.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Particle.cpp(154): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+Particle.cpp(159): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+Particle.cpp(217): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Particle.cpp(281): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+Particle.cpp(304): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(288): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(264): note: while compiling class template member function 'Mat4<float> Mat4<float>::inverse(void) const'
+  Particle.cpp(171): note: see reference to function template instantiation 'Mat4<float> Mat4<float>::inverse(void) const' being compiled
+  Particle.cpp(170): note: see reference to class template instantiation 'Mat4<float>' being compiled
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(289): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(297): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(298): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(293): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(291): note: while compiling class template member function 'void Vec3<float>::normalize(void)'
+  Particle.cpp(220): note: see reference to function template instantiation 'void Vec3<float>::normalize(void)' being compiled
+  c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\camera.h(33): note: see reference to class template instantiation 'Vec3<float>' being compiled
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(293): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\vec.h(293): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  particleSystem.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  point.cpp
+  rect.cpp
+  robotarm.cpp
+robotarm.cpp(126): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  rulerwindow.cpp
+rulerwindow.cpp(52): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+rulerwindow.cpp(81): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  c2interpevaluator.cpp
+c2interpevaluator.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(541): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c2interpevaluator.cpp(122): note: see reference to function template instantiation 'Mat4<float> operator *<float>(const Mat4<float> &,const double)' being compiled
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\mat.h(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c2interpevaluator.cpp(122): note: see reference to function template instantiation 'Mat4<float> operator /<float>(const Mat4<float> &,const double)' being compiled
+  Scene 1.cpp
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\visual studio 2015\projects\graphics\project_2\animator\Particle.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(69): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene 1.cpp(81): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Scene 1.cpp(90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Scene 1.cpp(97): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Scene 1.cpp(196): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(197): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(198): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(201): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(202): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(204): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(206): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Scene 1.cpp(246): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene 1.cpp(264): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(321): warning C4305: '=': truncation from 'double' to 'float'
+Scene 1.cpp(322): warning C4305: '=': truncation from 'double' to 'float'
+Scene 1.cpp(341): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(343): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(347): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(355): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(357): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(372): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(374): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(378): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(380): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(389): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(391): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(395): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(397): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(408): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(410): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(419): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(421): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Scene 1.cpp(458): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(459): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(460): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(461): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(462): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(463): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(464): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(465): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(466): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(467): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(468): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(469): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene 1.cpp(470): warning C4305: 'argument': truncation from 'double' to 'float'
+  Shader_Helper.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'fltkd.lib'

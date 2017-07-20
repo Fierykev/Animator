@@ -1,0 +1,60 @@
+﻿     Creating library C:\Users\cyber\Documents\Visual Studio 2015\Projects\Graphics\Project_2\animator\x64\Release\Animator.lib and object C:\Users\cyber\Documents\Visual Studio 2015\Projects\Graphics\Project_2\animator\x64\Release\Animator.exp
+batman.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "public: void __cdecl Batman::load(void)" (?load@Batman@@QEAAXXZ)
+robotarm.obj : error LNK2001: unresolved external symbol __imp_glewInit
+Scene 1.obj : error LNK2001: unresolved external symbol __imp_glewInit
+batman.obj : error LNK2019: unresolved external symbol __imp_glewGetErrorString referenced in function "public: void __cdecl Batman::load(void)" (?load@Batman@@QEAAXXZ)
+robotarm.obj : error LNK2001: unresolved external symbol __imp_glewGetErrorString
+Scene 1.obj : error LNK2001: unresolved external symbol __imp_glewGetErrorString
+modelerview.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferTexture
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferTexture
+modelerview.obj : error LNK2001: unresolved external symbol __imp___glewBindFramebuffer
+modelerview.obj : error LNK2001: unresolved external symbol __imp___glewCheckFramebufferStatus
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewCheckFramebufferStatus
+modelerview.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferTexture2D
+modelerview.obj : error LNK2001: unresolved external symbol __imp___glewGenFramebuffers
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewDisableVertexAttribArray
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewDisableVertexAttribArray
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUniform1f
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUniform2f
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewUniform2f
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUniform3fv
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUniform4fv
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewUniform4fv
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+ObjectFileLoader.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewTexImage3D
+Particle.obj : error LNK2001: unresolved external symbol __imp___glewUniform3f
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+Shader_Helper.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+C:\Users\cyber\Documents\C++ Library\glew-1.13.0\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\cyber\Documents\Visual Studio 2015\Projects\Graphics\Project_2\animator\x64\Release\Animator.exe : fatal error LNK1120: 36 unresolved externals
